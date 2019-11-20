@@ -14,8 +14,8 @@ class UserConfig {
 }
 
 local my_config = fe.get_config();
-local flx = fe.layout.width=640;
-local fly = fe.layout.height=480;
+local flx = fe.layout.width;
+local fly = fe.layout.height;
 local flw = fe.layout.width;
 local flh = fe.layout.height;
 //fe.layout.font="Roboto";
